@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Disc Golf</string>
+	<string name="ext_dir">com.crinqle.golf</string>
+	<string name="player_file">players</string>
+	<string name="course_file">courses</string>
+	<string name="prefs_file">prefs</string>
+	<string name="round_file">round</string>
+</resources>

@@ -1,5 +1,5 @@
-Disc Golf + GPS
-===============
+Android Disc Golf + GPS
+=======================
 
 Android app for disc golf.  Uses GPS to track shots, and can score multiple players.
 
